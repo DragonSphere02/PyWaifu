@@ -4,7 +4,7 @@ import setuptools
 with open('README.md', encoding='utf-8') as read_me:
     readme = read_me.read()
 
-version = '1.0.0'
+version = '1.0.1'
 
 setup(
     author='DragonSh',
@@ -18,7 +18,7 @@ setup(
     include_package_data=True,
     keywords='waifu discord bots',
     name='PyWaifu',
-    url='',
+    url='https://github.com/DragonSphere02/PyWaifu',
     packages=setuptools.find_packages(),
     classifiers=[
         "License :: OSI Approved :: MIT License",

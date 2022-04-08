@@ -26,7 +26,7 @@ import pywaifu
 print(pywaifu.__version__)
 ~~~
 
-###Basic example in a discord bot
+Basic example in a discord bot
 ~~~python
 import discord
 import pywaifu
