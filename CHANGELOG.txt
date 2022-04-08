@@ -1,0 +1,8 @@
+Change Log
+==========
+
+Format --> Version - DD/MM/YYYY
+
+1.0.0 - (08/04/2022)
+--------------------
+-> First release
